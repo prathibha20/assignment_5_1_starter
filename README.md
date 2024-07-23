@@ -79,3 +79,4 @@ I also decided to have a look at Redemption by gender and occupation. I was part
 
 
 From our beautiful plot, we can see that the highest number of redeemers of the coupon were Students, the unemployed, and computer and mathematical. We also see that the highest group, students, Males redeemed more coupons than females. The acceptance rate here was 63.46% !
+# assignment_5_1_starter
